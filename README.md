@@ -388,10 +388,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Pranudeep**
+- LinkedIn: [your-profile](https://linkedin.com/in/pranudeep)
 
 ## Acknowledgments
 
